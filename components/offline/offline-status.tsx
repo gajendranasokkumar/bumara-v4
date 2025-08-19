@@ -95,7 +95,7 @@ export function OfflineStatus() {
 
         <div className="space-y-3">
           <div className="flex items-center justify-between">
-            <span className="text-sm text-muted-foreground">Last sync:</span>
+            <span className="text-sm text-muted-foreground">Last sync :</span>
             <span className="text-sm font-medium">{formatLastSync(lastSyncTime)}</span>
           </div>
 
