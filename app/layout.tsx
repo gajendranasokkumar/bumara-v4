@@ -5,9 +5,9 @@ import './globals.css'
 import { ConditionalTopNavbar } from '@/components/layout/conditional-top-navbar'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.app',
+  title: 'Bumara Compliance',
+  description: 'Created for Bumara',
+  generator: 'Bumara Compliance',
 }
 
 export default function RootLayout({
